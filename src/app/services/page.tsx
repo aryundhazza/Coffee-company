@@ -24,7 +24,7 @@ export default function Product() {
     },
     {
       name: "Chocolatos",
-      description: "Rp.",
+      description: "Rp. 25.000",
       image: img4,
     },
   ];
